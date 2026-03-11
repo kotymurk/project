@@ -11,10 +11,9 @@ export const StyledAuthBox = styled(Box)({
 });
 
 export const StyledPaper = styled(Paper)({
-  padding: '24px',
+  padding: '12px 24px 30px',
   marginBottom: '32px',
   width: '514px',
-  height: '400px',
   borderRadius: '12px',
   boxShadow: '0 4px 20px rgba(0, 0, 0, 0.08)',
 });
