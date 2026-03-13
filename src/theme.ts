@@ -11,6 +11,15 @@ export const theme = createTheme({
   },
   typography: {
     fontFamily: 'inter, sans-serif',
+    h6: {
+      fontSize: '24px',
+      fontWeight: '500',
+      color: '#000',
+    },
+    body2: {
+      fontSize: '14px',
+      color: '#37393D',
+    },
   },
   components: {
     MuiButton: {
